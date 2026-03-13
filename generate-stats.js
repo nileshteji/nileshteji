@@ -140,7 +140,8 @@ async function graphqlQuery(token, query, variables = {}) {
       if (data.errors) {
         const isTransient = data.errors.some(e => String(e.message || '').includes('Something went wrong') || e.type === 'INTERNAL')
         if (isTransient && attempt < maxAttempts) {
-          const delay = Math.min(1000 * Math.pow(2, attempt - 1), 20000)
+          const delay = Math.min(3000 * Math.pow(2, attempt - 1), 60000)
+          console.log(`  Attempt ${attempt}/${maxAttempts} transient error, retrying in ${Math.ceil(delay / 1000)}s...`)
           await new Promise(r => setTimeout(r, delay))
           continue
         }
@@ -159,22 +160,24 @@ async function graphqlQuery(token, query, variables = {}) {
 }
 
 async function fetchUserInfo(token, fromDate, toDate) {
-  return graphqlQuery(token, `
+  // Split into two smaller queries to avoid GitHub API timeouts
+  const basicInfo = await graphqlQuery(token, `
     query {
       viewer {
         id
         login
         createdAt
-        repositories(ownerAffiliations: OWNER, privacy: PUBLIC, first: 100) {
+        repositories(ownerAffiliations: OWNER, privacy: PUBLIC, first: 1) {
           totalCount
-          nodes {
-            name
-            languages(first: 10) {
-              edges { size node { name color } }
-            }
-          }
         }
         contributionsCollection { contributionYears }
+      }
+    }
+  `)
+
+  const lastYearInfo = await graphqlQuery(token, `
+    query {
+      viewer {
         lastYear: contributionsCollection(from: "${fromDate}", to: "${toDate}") {
           totalCommitContributions
           totalIssueContributions
@@ -183,6 +186,14 @@ async function fetchUserInfo(token, fromDate, toDate) {
       }
     }
   `)
+
+  return {
+    viewer: {
+      ...basicInfo.viewer,
+      repositories: basicInfo.viewer.repositories,
+      lastYear: lastYearInfo.viewer.lastYear
+    }
+  }
 }
 
 async function fetchAllTimeContributions(token, years) {
@@ -238,7 +249,7 @@ async function fetchUserReposWithCommits(token, username, userId, since, languag
       data = await graphqlQuery(token, `
         query($username: String!, $cursor: String) {
           user(login: $username) {
-            repositories(first: 30, after: $cursor, ownerAffiliations: OWNER, privacy: PUBLIC) {
+            repositories(first: 10, after: $cursor, ownerAffiliations: OWNER, privacy: PUBLIC) {
               pageInfo { hasNextPage endCursor }
               nodes {
                 name url
