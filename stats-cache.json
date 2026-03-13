@@ -1,0 +1,56 @@
+{
+  "timestamp": 1773428589302,
+  "throughYear": 2025,
+  "totals": {
+    "commits": 931,
+    "issues": 19,
+    "prs": 55
+  },
+  "yearly": {
+    "2017": {
+      "commits": 0,
+      "issues": 0,
+      "prs": 0
+    },
+    "2018": {
+      "commits": 0,
+      "issues": 0,
+      "prs": 0
+    },
+    "2019": {
+      "commits": 37,
+      "issues": 1,
+      "prs": 7
+    },
+    "2020": {
+      "commits": 640,
+      "issues": 17,
+      "prs": 31
+    },
+    "2021": {
+      "commits": 70,
+      "issues": 0,
+      "prs": 8
+    },
+    "2022": {
+      "commits": 97,
+      "issues": 0,
+      "prs": 0
+    },
+    "2023": {
+      "commits": 0,
+      "issues": 0,
+      "prs": 0
+    },
+    "2024": {
+      "commits": 0,
+      "issues": 0,
+      "prs": 0
+    },
+    "2025": {
+      "commits": 20,
+      "issues": 1,
+      "prs": 1
+    }
+  }
+}
