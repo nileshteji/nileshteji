@@ -6,22 +6,22 @@ Just working around to find inner peace.
 
 ## 📊 Stats
 
-| All Time | Last Year | Top languages |
-|----------|-----------|---------------|
-| 📦 **39** public repos | 🔥 **80** commits | ![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23A97BFF&message=Kotlin%2030%25) |
-| 🔥 **80** commits | 📝 **1** issues | ![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%2021%25) |
-| 📋 **19** issues | 🔀 **4** PRs | ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%208%25) |
-| 🔀 **81** PRs | | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%208%25) |
-| ⭐ **54** stars | | ![Go](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2300ADD8&message=Go%206%25) |
+| All Time | Last Year | Top languages (last year) |
+|----------|-----------|---------------------------|
+| 📦 **40** public repos | 🔥 **81** commits | ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%2048%25) |
+| 🔥 **931** commits | 📝 **1** issues | ![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%2020%25) |
+| 📋 **19** issues | 🔀 **7** PRs | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2014%25) |
+| 🔀 **55** PRs | ![+39,773](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B39%2C773) lines added | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%209%25) |
+| ⭐ **54** stars | ![-6,510](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-6%2C510) lines removed | ![Lua](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23000080&message=Lua%208%25) |
 
-## 🚀 Notable Projects
+## 🚀 Most Active Projects (Last Year)
 
-- 🩸 [plasma-donation-application](https://github.com/nileshteji/plasma-donation-application) - Blood plasma donation platform
-- 📋 [mark-up](https://github.com/nileshteji/mark-up) - Real-time attendance management application
-- 🧠 [algorithms](https://github.com/nileshteji/algorithms) - Problem-solving collection from competitive coding platforms
-- 📂 [sort-it-out](https://github.com/nileshteji/sort-it-out) - File organizer utility — sorts files by extension
-- 🐹 [go-basics](https://github.com/nileshteji/go-basics) - Learning Go from scratch
-- 📱 [android-projects](https://github.com/nileshteji/android-projects) - Collection of Android projects in Kotlin
+- [rig](https://github.com/nileshteji/rig) - 57 commits, ![+23,374](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B23%2C374) ![-5,753](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-5%2C753)
+- [kamkanam](https://github.com/nileshteji/kamkanam) - 9 commits, ![+1,040](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B1%2C040) ![-166](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-166)
+- [nileshteji](https://github.com/nileshteji/nileshteji) - 7 commits, ![+1,311](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B1%2C311) ![-79](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-79)
+- [chardify](https://github.com/nileshteji/chardify) - 5 commits, ![+7,225](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B7%2C225) ![-405](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-405)
+- [gyansar](https://github.com/nileshteji/gyansar) - 2 commits, ![+6,516](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B6%2C516) ![-83](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-83)
+- [musical-waddle](https://github.com/nileshteji/musical-waddle) - 1 commits, ![+307](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B307) ![-24](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-24)
 
 ## 🏢 Open Source
 
