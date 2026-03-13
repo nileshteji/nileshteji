@@ -23,10 +23,6 @@ Just working around to find inner peace.
 - [gyansar](https://github.com/nileshteji/gyansar) - 2 commits, ![+6,516](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B6%2C516) ![-83](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-83)
 - [musical-waddle](https://github.com/nileshteji/musical-waddle) - 1 commits, ![+307](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B307) ![-24](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-24)
 
-## 🏢 Open Source
-
-Member of **[FOSSASIA](https://github.com/fossasia)** and **[EaseDelivers](https://github.com/EaseDelivers)**
-
 ## 🤝 Connect with me
 
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/nilesh__121)
