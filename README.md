@@ -8,16 +8,16 @@ Just working around to find inner peace.
 
 | All Time | Last Year | Top languages (last year) |
 |----------|-----------|---------------------------|
-| 📦 **40** public repos | 🔥 **109** commits | ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%2040%25) |
-| 🔥 **1,020** commits | 📝 **1** issues | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2023%25) |
-| 📋 **19** issues | 🔀 **10** PRs | ![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%2019%25) |
-| 🔀 **64** PRs | ![+42,822](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B42%2C822) lines added | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%2011%25) |
-| ⭐ **56** stars | ![-7,027](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-7%2C027) lines removed | ![Lua](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23000080&message=Lua%207%25) |
+| 📦 **40** public repos | 🔥 **111** commits | ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%2049%25) |
+| 🔥 **1,022** commits | 📝 **1** issues | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2024%25) |
+| 📋 **19** issues | 🔀 **10** PRs | ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%2015%25) |
+| 🔀 **64** PRs | ![+52,601](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B52%2C601) lines added | ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%206%25) |
+| ⭐ **56** stars | ![-7,066](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-7%2C066) lines removed | ![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%205%25) |
 
 ## 🚀 Most Active Projects (Last Year)
 
-- [rig](https://github.com/nileshteji/rig) - 63 commits, ![+24,861](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B24%2C861) ![-6,158](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-6%2C158)
-- [nileshteji](https://github.com/nileshteji/nileshteji) - 23 commits, ![+2,873](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B2%2C873) ![-191](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-191)
+- [rig](https://github.com/nileshteji/rig) - 64 commits, ![+34,635](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B34%2C635) ![-6,192](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-6%2C192)
+- [nileshteji](https://github.com/nileshteji/nileshteji) - 24 commits, ![+2,878](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B2%2C878) ![-196](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-196)
 - [kamkanam](https://github.com/nileshteji/kamkanam) - 9 commits, ![+1,040](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B1%2C040) ![-166](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-166)
 - [chardify](https://github.com/nileshteji/chardify) - 5 commits, ![+7,225](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B7%2C225) ![-405](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-405)
 - [gyansar](https://github.com/nileshteji/gyansar) - 2 commits, ![+6,516](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B6%2C516) ![-83](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-83)
