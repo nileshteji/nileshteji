@@ -1,10 +1,10 @@
 {
-  "timestamp": 1773428589302,
+  "timestamp": 1776043305589,
   "throughYear": 2025,
   "totals": {
-    "commits": 931,
-    "issues": 19,
-    "prs": 55
+    "commits": 958,
+    "issues": 17,
+    "prs": 46
   },
   "yearly": {
     "2017": {
@@ -23,9 +23,9 @@
       "prs": 7
     },
     "2020": {
-      "commits": 640,
-      "issues": 17,
-      "prs": 31
+      "commits": 604,
+      "issues": 15,
+      "prs": 21
     },
     "2021": {
       "commits": 70,
