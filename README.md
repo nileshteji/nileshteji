@@ -8,15 +8,15 @@ Just working around to find inner peace.
 
 | All Time | Last Year | Top languages (last year) |
 |----------|-----------|---------------------------|
-| 📦 **43** public repos | 🔥 **197** commits | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2045%25) |
-| 🔥 **1,173** commits | 📝 **0** issues | ![Vim Script](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23199f4b&message=Vim%20Script%2021%25) |
+| 📦 **43** public repos | 🔥 **198** commits | ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%2045%25) |
+| 🔥 **1,174** commits | 📝 **0** issues | ![Vim Script](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23199f4b&message=Vim%20Script%2021%25) |
 | 📋 **17** issues | 🔀 **10** PRs | ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%2020%25) |
-| 🔀 **55** PRs | ![+380,506](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B380%2C506) lines added | ![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%2011%25) |
-| ⭐ **57** stars | ![-33,510](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-33%2C510) lines removed | ![Lua](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23000080&message=Lua%204%25) |
+| 🔀 **55** PRs | ![+380,511](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B380%2C511) lines added | ![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%2011%25) |
+| ⭐ **57** stars | ![-33,515](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-33%2C515) lines removed | ![Lua](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23000080&message=Lua%204%25) |
 
 ## 🚀 Most Active Projects (Last Year)
 
-- [nileshteji](https://github.com/nileshteji/nileshteji) - 81 commits, ![+3,194](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B3%2C194) ![-510](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-510)
+- [nileshteji](https://github.com/nileshteji/nileshteji) - 82 commits, ![+3,199](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B3%2C199) ![-515](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-515)
 - [rig](https://github.com/nileshteji/rig) - 76 commits, ![+347,251](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B347%2C251) ![-28,110](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-28%2C110)
 - [skills](https://github.com/nileshteji/skills) - 16 commits, ![+13,126](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B13%2C126) ![-4,212](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-4%2C212)
 - [kamkanam](https://github.com/nileshteji/kamkanam) - 9 commits, ![+1,040](https://img.shields.io/static/v1?style=plastic&label=&color=brightgreen&message=%2B1%2C040) ![-166](https://img.shields.io/static/v1?style=plastic&label=&color=red&message=-166)
